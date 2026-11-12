@@ -1,0 +1,55 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"out/build/x64-debug/_deps/matplotplusplus-src/source/3rd_party/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 151,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "cimg::@c7e29b13f31b6afc69a3",
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"fragment" : "gdi32"
+		}
+	],
+	"name" : "cimg",
+	"paths" : 
+	{
+		"build" : "_deps/matplotplusplus-build/source/3rd_party",
+		"source" : "out/build/x64-debug/_deps/matplotplusplus-src/source/3rd_party"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

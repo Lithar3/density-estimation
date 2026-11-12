@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/C_project/Laba1/out/build/x64-debug/cmake_install.cmake",
+		"D:/C_project/Laba1/out/build/x64-debug/_deps/matplotplusplus-build/cmake_install.cmake",
+		"D:/C_project/Laba1/out/build/x64-debug/_deps/matplotplusplus-build/source/cmake_install.cmake",
+		"D:/C_project/Laba1/out/build/x64-debug/_deps/matplotplusplus-build/source/3rd_party/cmake_install.cmake",
+		"D:/C_project/Laba1/out/build/x64-debug/_deps/matplotplusplus-build/source/matplot/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

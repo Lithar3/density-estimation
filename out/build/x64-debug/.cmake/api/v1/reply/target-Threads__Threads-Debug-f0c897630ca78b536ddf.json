@@ -1,0 +1,84 @@
+{
+	"abstract" : true,
+	"backtrace" : 8,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package",
+			"_lapack_find_dependency"
+		],
+		"files" : 
+		[
+			"D:/visual/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/FindThreads.cmake",
+			"D:/visual/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/FindBLAS.cmake",
+			"D:/visual/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.3/Modules/FindLAPACK.cmake",
+			"out/build/x64-debug/_deps/matplotplusplus-src/source/3rd_party/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 96,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 321,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 275,
+				"parent" : 3
+			},
+			{
+				"file" : 1,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 519,
+				"parent" : 5
+			},
+			{
+				"file" : 0,
+				"parent" : 6
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 292,
+				"parent" : 7
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "Threads::Threads::@c7e29b13f31b6afc69a3",
+	"imported" : true,
+	"local" : true,
+	"name" : "Threads::Threads",
+	"paths" : 
+	{
+		"build" : "_deps/matplotplusplus-build/source/3rd_party",
+		"source" : "out/build/x64-debug/_deps/matplotplusplus-src/source/3rd_party"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

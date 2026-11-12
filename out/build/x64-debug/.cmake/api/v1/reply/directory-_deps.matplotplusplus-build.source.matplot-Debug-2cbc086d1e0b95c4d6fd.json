@@ -1,0 +1,48 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"out/build/x64-debug/_deps/matplotplusplus-src/source/matplot/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 112,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/matplot/detail",
+			"paths" : 
+			[
+				"out/build/x64-debug/_deps/matplotplusplus-build/source/matplot/matplot/detail/exports.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/matplotplusplus-build/source/matplot",
+		"source" : "out/build/x64-debug/_deps/matplotplusplus-src/source/matplot"
+	}
+}
